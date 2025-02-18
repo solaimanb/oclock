@@ -8,7 +8,8 @@ authors = [
     { name = "oclock", email = "oclockkk@gmail.com" }
 ]
 dependencies = [
-  "flet==0.26.0"
+  "flet==0.26.0",
+  "pyjnius"
 ]
 
 [tool.flet]
